@@ -1,0 +1,6 @@
+{
+    "name": "Mioara",
+    "description": "This sheep has some stuff and other stuff",
+    "image": "https://i.ibb.co/cYfp1Qn/sheepicon3.jpg",
+    "attributes": [{"trait_type": "cuteness", "value": 100}]
+}
